@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/node": "*",
-        "base-x": "^3.0.6"
+        "base-x": "^5.0.1"
     },
     "devDependencies": {
         "@types/bs58": "workspace:."
