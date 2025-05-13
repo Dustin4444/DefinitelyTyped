@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/consumable-stream": "^1",
-        "@types/writable-consumable-stream": "^1"
+        "@types/writable-consumable-stream": "^4.1.0"
     },
     "devDependencies": {
         "@types/async-stream-emitter": "workspace:."
