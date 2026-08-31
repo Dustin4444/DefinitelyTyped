@@ -7,7 +7,7 @@
         "https://github.com/c3js/c3"
     ],
     "dependencies": {
-        "@types/d3": "^4"
+        "@types/d3": "^7.4.3"
     },
     "devDependencies": {
         "@types/c3": "workspace:."
